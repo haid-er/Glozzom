@@ -1,0 +1,25 @@
+/*-----------------Utility Classes-------------------- */
+.height100{
+    height: 100%;
+}
+.bg-opac{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.bg-opac-dark{
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.ps10{
+    padding-left: 10%;
+}
+.bg-image1{
+    background: url(/img/image1.jpg) no-repeat center center/cover;
+}
+.bg-fixed{
+    background-attachment: fixed;
+}
+.hover:hover{
+    border-left: 2px solid grey;
+}
+.bg-blackish{
+    background-color: rgb(54, 54, 56);
+}

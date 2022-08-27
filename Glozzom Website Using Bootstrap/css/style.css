@@ -1,0 +1,31 @@
+/*-----------------Utility Classes-------------------- */
+.height100{
+    height: 100%;
+}
+.bg-opac{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+.bg-opac-dark{
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.ps10{
+    padding-left: 10%;
+}
+.bg-image1{
+    background: url(/img/image1.jpg);
+}
+.bg-image2{
+    background: url(/img/image2.jpg);
+}
+.bg-image3{
+    background: url(/img/image3.jpg);
+}
+#ready{
+    background: url(/img/lights.jpg);
+}
+#what{
+    background:url(/img/video-pic.jpg) no-repeat center center/cover;
+}
+.hover:hover{
+    border-left: 2px solid grey;
+}
